@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "twitter-sanity"
+    "name": "Twitter-Sanity"
   },
   "api": {
-    "projectId": "9dh6x53x",
+    "projectId": "2eonafjj",
     "dataset": "production"
   },
   "plugins": [

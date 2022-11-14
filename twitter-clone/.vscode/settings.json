@@ -1,3 +1,8 @@
 {
-	"git.ignoreLimitWarning": true
+	"git.ignoreLimitWarning": true,
+	"eslint.workingDirectories": ["./Twitter-Clone", "./twitter-sanity"],
+	"files.associations": {
+		"*.env.local": "env"
+	},
+	"cSpell.words": ["groq"]
 }
